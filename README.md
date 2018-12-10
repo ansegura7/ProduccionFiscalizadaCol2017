@@ -33,7 +33,7 @@ El autor de la visualización es Andrés Segura Tinoco, CE 201711582.
 ## SCREENSHOT
 A continuación, se presenta un pantallazo del proyecto:
 
-![GitHub Logo](https://raw.githubusercontent.com/ansegura7/ProduccionFiscalizadaCol2017/master/VA-Tarea2-Screenshot.PNG)
+![GitHub Logo](https://raw.githubusercontent.com/ansegura7/ProduccionFiscalizadaCol2017/master/screenshot/VA-Tarea2-Screenshot.PNG)
 
 ## LICENCIA
 Este proyecto está bajo la licencia MIT, la cual reza lo siguiente:
